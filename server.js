@@ -15,5 +15,5 @@ app.get("/api/random", function (req, res) {
 })
 
 app.listen(8080, function () {
-    console.log("The app is running at port 3000")
+    console.log("The app is running at port 8080")
 });
